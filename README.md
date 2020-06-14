@@ -2,4 +2,4 @@
 
 This is a demo on how to use Git.
 
-Hello SQL community!
+Can I commit to master?
