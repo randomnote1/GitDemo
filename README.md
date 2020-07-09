@@ -2,4 +2,6 @@
 
 This is a demo on how to use Git.
 
-This change was made via a push to dev for the 3rd time
+## Releases
+
+Download the latest release of this repo [here](https://github.com/randomnote1/GitDemo/archive/v0.2-alpha.zip).
