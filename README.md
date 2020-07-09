@@ -2,4 +2,4 @@
 
 This is a demo on how to use Git.
 
-This change was merged via a pull request
+This change was made via a push to dev
