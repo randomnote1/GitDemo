@@ -29,6 +29,11 @@
     <AssemblyOriginatorKeyFile />
   </PropertyGroup>
   <ItemGroup>
+    <ManagementPackReference Include="Microsoft.SharePoint.Foundation.Library">
+      <HintPath>C:\Program Files (x86)\System Center Management Packs\Microsoft.Sharepoint.Server.ManagementPacks\microsoft.sharepoint.foundation.library.mp</HintPath>
+      <Alias>MSFL</Alias>
+      <MinVersion>15.0.4557.1000</MinVersion>
+    </ManagementPackReference>
     <ManagementPackReference Include="Microsoft.SystemCenter.Library">
       <Alias>SC</Alias>
       <PackageToBundle>false</PackageToBundle>
