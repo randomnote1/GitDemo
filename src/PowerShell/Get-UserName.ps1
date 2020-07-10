@@ -7,5 +7,5 @@ function Get-UserName
     [CmdletBinding()]
     param ()
 
-    return $env:USERNAME
+    Write-Verbose -Message $env:USERNAME
 }
